@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_28_21 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/f416d00c-38da-4c4b-b788-7616e19afe92)
+![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_28_27 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/a712a1be-19c5-42cb-a786-feb00af89987)
+![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_28_42 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/2b57913e-724a-4e0e-814e-e9feab992aea)
+![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_28_53 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/25ef50b3-0085-44e1-b2be-1e63673892af)
+![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_29_02 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/923b9fe8-4194-4c50-a4b9-260829aab98a)
+![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_29_09 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/b7cf38c9-6233-4740-bcc0-e8dbd75![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_29_58 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/41538620-99cf-4562-85a9-c5fda076e262)
+b91a5)
+![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_29_19 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/9296fcf0-a6d1-4bc8-9589-32290123f880)
+![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_29_25 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/36ac0fb1-207c-4aaf-bb92-b1990ec0239a)![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_30_06 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/ddb8b916-5d7e-43bd-941d-45003bd7a1df)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_29_41![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_29_58 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/c625ca47-bba4-43bf-b3b2-f93757f0e266)
+ PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/4e200db6-4271-4f3d-bc39-882e8ff46c4d)
+![Cybersecurity Awareness - Personal - Microsoft​ Edge 09-Jun-24 9_30_11 PM](https://github.com/techsoniya/cybersecurity-attacks-visual-demonstration/assets/100508652/569cb67f-9731-4650-9f8a-83b2869c5f5e)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
